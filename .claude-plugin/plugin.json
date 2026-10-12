@@ -2,5 +2,6 @@
   "name": "sub-discuss",
   "version": "0.1.0",
   "description": "Open side discussions next to the main conversation and send their conclusions back to it",
+  "author": { "name": "Alan Lee" },
   "types": "./types/index.d.ts"
 }
